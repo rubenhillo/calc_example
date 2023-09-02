@@ -1,2 +1,2 @@
 # calc_example
-Hands-On: Lab - Ising Git with my own Desktop
+Hands-On: Lab - Using Git with my own Desktop
